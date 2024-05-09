@@ -11,7 +11,7 @@ const decodeTheRing = function (s, p) {
 
     return true;
 }
-
+};
 console.log(decodeTheRing("aa", "a"));   
 console.log(decodeTheRing("a", "*"));   
 console.log(decodeTheRing("cb", "?a")); 
